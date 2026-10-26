@@ -114,20 +114,6 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="paper-section" id="citation">
-        <h2>BibTeX</h2>
-        <pre className="mt-8 overflow-x-auto rounded-lg bg-slate-100 p-5 text-left font-mono text-[13px] leading-6 text-slate-700 sm:p-7">
-          <code>{`@article{pan2026pamor,
-  title   = {PAMoR: Parameterized Affective Motion
-             Generation in Real Time for Humanoid Robots},
-  author  = {Pan, Yan and Bao, Lingfan and Peng, Tianhu
-             and Zhou, Chengxu},
-  journal = {arXiv preprint arXiv:2608.28213},
-  year    = {2026}
-}`}</code>
-        </pre>
-      </section>
-
       <footer className="mt-8 border-t border-slate-200 py-8 text-center text-sm text-slate-500">
         <p>
           PAMoR ·{' '}
